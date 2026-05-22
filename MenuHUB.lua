@@ -5,7 +5,7 @@ local GAMES = {
     },
 
     ["102871156420149"] = {
-        name = "Frontlines",
+        name = "The Lost Front",
         url = "https://raw.githubusercontent.com/mmq098/FrontMenu/main/lua"
     }
 }
