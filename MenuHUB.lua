@@ -4,6 +4,11 @@ local GAMES = {
         url = "https://raw.githubusercontent.com/mmq098/SCPMENU-SITERP/refs/heads/main/lua"
     },
 
+    ["99342262733194"] = {
+        name = "Randomizer: Redux",
+        url = "https://raw.githubusercontent.com/mmq098/RandomizerMenu/refs/heads/main/lua"
+    },
+
     ["102871156420149"] = {
         name = "The Lost Front",
         url = "https://raw.githubusercontent.com/mmq098/FrontMenu/main/lua"
