@@ -11,7 +11,7 @@ local GAMES = {
 
     ["5534891288"] = {
         name = "SCP: Project",
-        url = "https://api.jnkie.com/api/v1/luascripts/public/aa6f56f0f339f964ef61a3db49c37f1f6b189c8b3611487fc016c70ab7dba51f"
+        url = "https://api.jnkie.com/api/v1/luascripts/public/aa6f56f0f339f964ef61a3db49c37f1f6b189c8b3611487fc016c70ab7dba51f/download"
     },
 
     ["102871156420149"] = {
