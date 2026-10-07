@@ -18,9 +18,9 @@ local GAMES = {
 		url = "https://api.jnkie.com/api/v1/luascripts/public/db7600c943a9c8eb6ceb369bf8fbfc18abf2450a491c8090f8687e21b7f57d2a/download",
 	},
 	{
-		name = "Project: SCP",
-		placeIds = { 5534891288 },
-		universeId = 1934496708,
+		name = "Cold War",
+		placeIds = { 13687899540 },
+		universeId = 4750561026,
 		url = "https://api.jnkie.com/api/v1/luascripts/public/5e86518fdda2a39048d65d8954421e6cd29a7c0a2ddaf32a865ed2809f65eb0d/download",
 	},
 	{
